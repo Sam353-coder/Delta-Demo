@@ -1,6 +1,6 @@
 # Delta-Demo
 This is a Demo for  Git & GitHub class.
-# Teacer
+# Teacher
 Sameeksha Payasi
 # Student
 Backend Student
